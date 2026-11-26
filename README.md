@@ -1,4 +1,3 @@
-```markdown
 # CivicPulse 311
 
 ## Project Summary
@@ -54,4 +53,3 @@ The initiative will deliver:
 - **Analytics-ready reporting** for strategic planning and resource optimization
 
 > **Ultimate goal:** improved operational transparency, faster response times, and enhanced public trust.
-```
